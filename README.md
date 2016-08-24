@@ -23,12 +23,8 @@ npm run dev
 ```
 http://localhost:8080
 ```
-
-
-
-
-
-
+br
+br
 ###webpack 其他命令
 ######$ webpack // 最基本的启动webpack方法
 ######$ webpack -w // 提供watch方法，实时进行打包更新
