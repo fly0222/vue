@@ -19,10 +19,17 @@ npm install webpack --save-dev
 ```
 npm run dev
 ```
-#####运行
+#####run 运行
 ```
 http://localhost:8080
 ```
+#####push 打包发布
+```
+webpack -p
+```
+
+
+
 <br><br>
   
 ###webpack 其他命令
